@@ -1,0 +1,11 @@
+/Users/euma/code/random/rust-cli-template/target/debug/deps/anstyle_parse-2a3967ecd3822e45.rmeta: /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/lib.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/params.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/mod.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/definitions.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/table.rs
+
+/Users/euma/code/random/rust-cli-template/target/debug/deps/libanstyle_parse-2a3967ecd3822e45.rlib: /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/lib.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/params.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/mod.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/definitions.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/table.rs
+
+/Users/euma/code/random/rust-cli-template/target/debug/deps/anstyle_parse-2a3967ecd3822e45.d: /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/lib.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/params.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/mod.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/definitions.rs /Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/table.rs
+
+/Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/lib.rs:
+/Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/params.rs:
+/Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/mod.rs:
+/Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/definitions.rs:
+/Users/euma/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.1/src/state/table.rs:

@@ -1,0 +1,1 @@
+/Users/euma/code/random/rust-cli-template/target/debug/rust-cli-template: /Users/euma/code/random/rust-cli-template/src/cli/cli_args.rs /Users/euma/code/random/rust-cli-template/src/cli/cli_commands.rs /Users/euma/code/random/rust-cli-template/src/cli/mod.rs /Users/euma/code/random/rust-cli-template/src/lib.rs /Users/euma/code/random/rust-cli-template/src/main.rs

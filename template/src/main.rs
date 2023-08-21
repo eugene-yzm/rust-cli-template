@@ -1,5 +1,5 @@
 use clap::Parser;
-use rust_cli_template::cli::{cli_args, cli_commands};
+use {{project-name}}::cli::{cli_args, cli_commands};
 
 fn main() {
     let cli = cli_args::CliArgs::parse();
